@@ -1,0 +1,11 @@
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\bin\Debug\DemoWindowsFormsApplication1.exe.config
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\obj\Debug\DemoWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\obj\Debug\DemoWindowsFormsApplication1.Form1.resources
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\obj\Debug\DemoWindowsFormsApplication1.Properties.Resources.resources
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\obj\Debug\DemoWindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\bin\Debug\DemoWindowsFormsApplication1.exe
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\bin\Debug\DemoWindowsFormsApplication1.pdb
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\obj\Debug\DemoWindowsFormsApplication1.exe
+D:\dendy\Visual 15\TerbilangSolution2\DemoWindowsFormsApplication1\obj\Debug\DemoWindowsFormsApplication1.pdb
